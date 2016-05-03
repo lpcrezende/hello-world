@@ -2,6 +2,7 @@
  * Programa : repete.c
  * Autor: lpcrezende
  * Data da criação: 15.04.2016 13:56h BRT
+ * O programa repete um caracter um dado número de vezes
  */
 
 #include <stdio.h>
