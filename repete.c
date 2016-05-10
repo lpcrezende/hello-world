@@ -2,6 +2,7 @@
  * Programa : repete.c
  * Autor: lpcrezende
  * Data da criaÃ§Ã£o: 15.04.2016 13:56h BRT
+ * Edição via git desktop 10.05.16 lpcrezende
  */
 
 #include <stdio.h>
