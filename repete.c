@@ -3,6 +3,7 @@
  * Autor: lpcrezende
  * Data da criaÃ§Ã£o: 15.04.2016 13:56h BRT
  * Edição via git desktop 10.05.16 lpcrezende
+ * Edição vi git 10.05.16 13:57h BRT
  */
 
 #include <stdio.h>
@@ -13,7 +14,7 @@ int main(int argc, char *argv[])
     int n, i;
     
     if(argc == 1){
-        printf("Uso %s N C, onde N Ã© a quantidade e C Ã© o caracter\n", argv[0]);
+        printf("Uso %s N C, onde N eh a quantidade e C eh o caracter\n", argv[0]);
         return 0;
     }
     
