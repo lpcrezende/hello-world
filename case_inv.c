@@ -16,6 +16,7 @@ int main(argc, argv)
     char *str = argv[1];
     while(*str){
         *str ^= 0x020; 
+         str++;
     }
     
     printf("\n%s\n", str);
