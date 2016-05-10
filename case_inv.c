@@ -13,4 +13,8 @@ int main(argc, argv)
         printf("Uso: %s ccccccc onde cccccc eh a string de entrada.\n", argv[0]);
     }
     char *str = argv[1];
+    while(*str){
+        *str ^= 0x020; 
+    }
+
 }
