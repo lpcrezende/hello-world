@@ -12,7 +12,8 @@ int main(argc, argv)
         int argc;
         char *argv[];
 {
-    printf("O fibonacci de %d eh %d.\n", argv[1], fib(argv[1]));
+    int N = atoi(argv[1]);
+    printf("O fibonacci de %d eh %d.\n", N, fib(N));
     return 0;  
 }
 
