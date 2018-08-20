@@ -1,7 +1,7 @@
 /*
- *Programa: case_inv.c
- *Inverte a caixa dos caracteres de uma string
- *autor: lpcrezende
+ * Programa: case_inv.c
+ * Inverte a caixa dos caracteres de uma string
+ * Autor: lpcrezende
  */
 
 #include <stdio.h>
